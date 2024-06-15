@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SimpleSensorAppJC</string>
+
+    <string name="gpsScreenTitle">GPS</string>
+    <string name="gyroScreenTitle">Gyro</string>
+    <string name="homeScreenTitle">Home</string>
+
+    <string name="gpsScreenLabel">GPS</string>
+    <string name="gyroScreenLabel">Gyro</string>
+    <string name="homeScreenLabel">Home</string>
+
+    <string name="gyro_res">Resolution: %1$f rad/s</string>
+    <string name="gyro_range">Range: %1$f rad/s</string>
+    <string name="gyro_x">X: %1$f rad/s</string>
+    <string name="gyro_y">Y: %1$f rad/s</string>
+    <string name="gyro_z">Z: %1$f rad/s</string>
+
+    <string name="gps_position">Latitude: %1$.4f\nLongitude: %2$.4f\nTime: %3$tr"</string>
+    <string name="no_position">Keine Rechte zum Abruf von Positionsdaten erteilt.</string>
+
+
+</resources>
